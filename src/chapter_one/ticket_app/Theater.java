@@ -23,12 +23,11 @@ public class Theater {
         audience.getBag().setTicket(ticket);
     }
 
+    /**
+     * 오직 TicketSeller 의 인터페이스에 의존한다.
+     * @param audience 관중
+     */
     public void cleanedEnter(Audience audience){
-        Ticket ticket = ticketSeller.getTicketOffice().getTicket();
-        if (!audience.getBag().hasInvitation()){
-            audience.getBag().minusAmount(ticket.getFee());
-            ticketSeller.getTicketOffice().plusAmount(ticket.getFee());
-        }
-        audience.getBag().setTicket(ticket);
+        ticketSeller.sellTo(audience);
     }
 }
