@@ -1,4 +1,4 @@
-package chapter_one.ticket_app;
+package chapter_one;
 
 import java.util.ArrayList;
 import java.util.List;
