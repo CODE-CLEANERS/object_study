@@ -20,8 +20,4 @@ public class Audience {
         bag.minusAmount(ticket.getFee());
         return ticket.getFee();
     }
-
-    public Long buyV2(Ticket ticket){
-        return bag.hold(ticket);
-    }
 }
