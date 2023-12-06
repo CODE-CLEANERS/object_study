@@ -12,6 +12,12 @@
 
 3. 주에 한 장씩 진행합니다. 진행 시간은 일요일입니다(8시 고정이며, 사정에 따라 앞뒤로 1시간 미루거나 당겨드릴게요)
 
+4. 달려있는 투두를 해결하기
+
+<img width="929" alt="image" src="https://github.com/CODE-CLEANERS/object_study/assets/117057567/1a0996a2-b97d-4b6a-a531-02b112b1174e">
+
+- 질문에 대한 답을 생각해보거나
+- 혹은 코드를 더 나은 방향으로 바꿔보는 과제를 해결해봅시다!
 
 # [1. 객체, 설계](https://github.com/CODE-CLEANERS/object_study/blob/main/src/chapter_one/chapter_one.md)
 
