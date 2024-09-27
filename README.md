@@ -27,3 +27,4 @@
 >  3. 특별한 훈련 없이도 개발자가 쉽게 읽고 이해해야 한다."
 >  - Robert C Matin
 
+# [2. 코드로 이해하는 객체지향 설계](https://github.com/ca1af/object/blob/main/src/chapter_two/chapter_two.md)
